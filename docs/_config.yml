@@ -21,7 +21,7 @@
 title: Governance Experiments
 email: eon
 description: >- #  I am publishing some governance  experiments
-domain: eon.github.io
+domain: eon-meridian.github.io
 baseurl: "/eon.github.io" # the subpath of your site, e.g. /blog
 url: "https://eon-meridian.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: eon-meridian 
